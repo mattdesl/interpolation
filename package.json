@@ -1,0 +1,11 @@
+{
+  "name": "interpolation",
+  "version": "0.0.0",
+  "description": "Linear and Hermite interpolation functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt DesLauriers",
+  "license": "BSD-2-Clause"
+}
