@@ -1,4 +1,8 @@
-# Interpolation Functions
+[![browser support](https://ci.testling.com/mattdesl/color-luminance.png)](https://ci.testling.com/mattdesl/color-luminance)
+
+# interpolation
+
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 Provides two interpolation functions: lerp (linear interpolation) and smoothstep (Hermite interpolation).
 

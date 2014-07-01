@@ -1,4 +1,4 @@
-Copyright (c) 2014, Matt
+Copyright (c) 2014, Matt DesLauriers
 
 All rights reserved.
 
