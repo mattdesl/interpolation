@@ -4,7 +4,7 @@
   "description": "Linear and Hermite interpolation functions.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "author": "Matt DesLauriers",
   "license": "MIT",
@@ -24,5 +24,24 @@
   "bugs": {
     "url": "https://github.com/mattdesl/interpolation/issues"
   },
-  "homepage": "https://github.com/mattdesl/interpolation"
+  "homepage": "https://github.com/mattdesl/interpolation",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/17..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
 }
