@@ -7,5 +7,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt DesLauriers",
-  "license": "BSD-2-Clause"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdesl/interpolation.git"
+  },
+  "keywords": [
+    "lerp",
+    "smoothstep",
+    "mix",
+    "linear",
+    "interpolation",
+    "hermite",
+    "cubic"
+  ],
+  "bugs": {
+    "url": "https://github.com/mattdesl/interpolation/issues"
+  },
+  "homepage": "https://github.com/mattdesl/interpolation"
 }
