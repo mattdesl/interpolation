@@ -4,7 +4,7 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-Provides two interpolation functions: lerp (linear interpolation) and smoothstep (Hermite interpolation).
+Wraps two common interpolation functions: [lerp](https://www.npmjs.org/package/lerp) (linear interpolation) and [smoothstep](https://www.npmjs.org/package/smoothstep) (Hermite interpolation). 
 
 ```npm install interpolation```
 
