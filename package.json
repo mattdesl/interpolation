@@ -1,6 +1,6 @@
 {
   "name": "interpolation",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Linear and Hermite interpolation functions.",
   "main": "index.js",
   "scripts": {
